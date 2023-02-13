@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d build",
     "test": "echo \"Warning: No tests created yet.\"",
     "eject": "react-scripts eject"
-  },  
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ohwakeup/comp2156.git"
@@ -26,7 +26,7 @@
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5",
+    "react-scripts": "^2.1.3",
     "travis": "^0.1.1",
     "yarn": "^1.13.0"
   },
@@ -38,5 +38,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]  
+  ]
 }
